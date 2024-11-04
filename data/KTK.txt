@@ -1,0 +1,249 @@
+﻿Abzan Battle Priest,U
+Abzan Falconer,U
+Ainok Bond-Kin,C
+Alabaster Kirin,C
+Brave the Sands,U
+Dazzling Ramparts,U
+Defiant Strike,C
+End Hostilities,R
+Erase,C
+Feat of Resistance,C
+Firehoof Cavalry,C
+Herald of Anafenza,R
+High Sentinels of Arashin,R
+Jeskai Student,C
+Kill Shot,C
+Mardu Hateblade,C
+Mardu Hordechief,C
+Master of Pearls,R
+Rush of Battle,C
+Sage-Eye Harrier,C
+Salt Road Patrol,C
+Seeker of the Way,U
+Siegecraft,C
+Smite the Monstrous,C
+Suspension Field,U
+Take Up Arms,U
+Timely Hordemate,U
+Venerable Lammasu,U
+War Behemoth,C
+Watcher of the Roost,U
+Wingmate Roc,M
+Blinding Spray,U
+Cancel,C
+Clever Impersonator,M
+Crippling Chill,C
+Dig Through Time,R
+Disdainful Stroke,C
+Dragon's Eye Savants,U
+Embodiment of Spring,C
+Force Away,C
+Glacial Stalker,C
+Icy Blast,R
+Jeskai Elder,U
+Jeskai Windscout,C
+Kheru Spellsnatcher,R
+Mistfire Weaver,U
+Monastery Flock,C
+Mystic of the Hidden Way,C
+Pearl Lake Ancient,M
+Quiet Contemplation,U
+Riverwheel Aerialists,U
+Scaldkin,C
+Scion of Glaciers,U
+Set Adrift,U
+Singing Bell Strike,C
+Stubborn Denial,U
+Taigam's Scheming,C
+Thousand Winds,R
+Treasure Cruise,C
+Waterwhirl,U
+Weave Fate,C
+Wetland Sambar,C
+Whirlwind Adept,C
+Bellowing Saddlebrute,U
+Bitter Revelation,C
+Bloodsoaked Champion,R
+Dead Drop,U
+Debilitating Injury,C
+Despise,U
+Disowned Ancestor,C
+Dutiful Return,C
+Empty the Pits,M
+Grim Haruspex,R
+Gurmag Swiftwing,U
+Kheru Bloodsucker,U
+Kheru Dreadmaw,C
+Krumar Bond-Kin,C
+Mardu Skullhunter,C
+Mer-Ek Nightblade,U
+Molting Snakeskin,C
+Murderous Cut,U
+Necropolis Fiend,R
+Raiders' Spoils,U
+Rakshasa's Secret,C
+Retribution of the Ancients,R
+Rite of the Serpent,C
+Rotting Mastodon,C
+Ruthless Ripper,U
+Shambling Attendants,C
+Sidisi's Pet,C
+Sultai Scavenger,C
+Swarm of Bloodflies,U
+Throttle,C
+Unyielding Krumar,C
+Act of Treason,C
+Ainok Tracker,C
+Arc Lightning,U
+Arrow Storm,C
+Ashcloud Phoenix,M
+Barrage of Boulders,C
+Bloodfire Expert,C
+Bloodfire Mentor,C
+Bring Low,C
+Burn Away,U
+Canyon Lurkers,C
+Crater's Claws,R
+Dragon Grip,U
+Dragon-Style Twins,R
+Goblinslide,U
+Horde Ambusher,U
+Hordeling Outburst,U
+Howl of the Horde,R
+Jeering Instigator,R
+Leaping Master,C
+Mardu Blazebringer,U
+Mardu Heart-Piercer,U
+Mardu Warshrieker,C
+Monastery Swiftspear,U
+"Sarkhan, the Dragonspeaker",M
+Shatter,C
+Summit Prowler,C
+Swift Kick,C
+Tormenting Voice,C
+Trumpet Blast,C
+Valley Dasher,C
+War-Name Aspirant,U
+Alpine Grizzly,C
+Archers' Parapet,C
+Awaken the Bear,C
+Become Immense,U
+Dragonscale Boon,C
+Feed the Clan,C
+Hardened Scales,R
+Heir of the Wilds,U
+Highland Game,C
+Hooded Hydra,M
+Hooting Mandrills,C
+Incremental Growth,U
+Kin-Tree Warden,C
+Longshot Squad,C
+Meandering Towershell,R
+Naturalize,C
+Pine Walker,U
+Rattleclaw Mystic,R
+Roar of Challenge,U
+Sagu Archer,C
+Savage Punch,C
+Scout the Borders,C
+See the Unwritten,M
+Seek the Horizon,U
+Smoke Teller,C
+Sultai Flayer,U
+Temur Charger,U
+Trail of Mystery,R
+Tusked Colossodon,C
+Tuskguard Captain,U
+Windstorm,U
+Woolly Loxodon,C
+Abomination of Gudul,C
+Abzan Ascendancy,R
+Abzan Charm,U
+Abzan Guide,C
+"Anafenza, the Foremost",M
+Ankle Shanker,R
+Armament Corps,U
+Avalanche Tusker,R
+Bear's Companion,U
+Butcher of the Horde,R
+Chief of the Edge,U
+Chief of the Scale,U
+Crackling Doom,R
+Death Frenzy,U
+Deflecting Palm,R
+Duneblast,R
+Efreet Weaponmaster,C
+Flying Crane Technique,R
+Highspire Mantis,U
+Icefeather Aven,U
+Ivorytusk Fortress,R
+Jeskai Ascendancy,R
+Jeskai Charm,U
+Kheru Lich Lord,R
+Kin-Tree Invocation,U
+Mantis Rider,R
+Mardu Ascendancy,R
+Mardu Charm,U
+Mardu Roughrider,U
+Master the Way,U
+Mindswipe,R
+"Narset, Enlightened Master",M
+Ponyback Brigade,C
+Rakshasa Deathdealer,R
+Rakshasa Vizier,R
+Ride Down,U
+Sage of the Inward Eye,R
+Sagu Mauler,R
+Savage Knuckleblade,R
+Secret Plans,U
+"Sidisi, Brood Tyrant",M
+Siege Rhino,R
+Snowhorn Rider,C
+"Sorin, Solemn Visitor",M
+Sultai Ascendancy,R
+Sultai Charm,U
+Sultai Soothsayer,U
+Surrak Dragonclaw,M
+Temur Ascendancy,R
+Temur Charm,U
+Trap Essence,R
+Utter End,R
+Villainous Wealth,R
+Warden of the Eye,U
+Winterflame,U
+Zurgo Helmsmasher,M
+Abzan Banner,C
+Altar of the Brood,R
+Briber's Purse,U
+Cranial Archive,U
+Dragon Throne of Tarkir,R
+Ghostfire Blade,R
+Heart-Piercer Bow,U
+Jeskai Banner,C
+Lens of Clarity,C
+Mardu Banner,C
+Sultai Banner,C
+Temur Banner,C
+Ugin's Nexus,M
+Witness of the Ages,U
+Bloodfell Caves,C
+Bloodstained Mire,R
+Blossoming Sands,C
+Dismal Backwater,C
+Flooded Strand,R
+Frontier Bivouac,U
+Jungle Hollow,C
+Mystic Monastery,U
+Nomad Outpost,U
+Opulent Palace,U
+Polluted Delta,R
+Rugged Highlands,C
+Sandsteppe Citadel,U
+Scoured Barrens,C
+Swiftwater Cliffs,C
+Thornwood Falls,C
+Tomb of the Spirit Dragon,U
+Tranquil Cove,C
+Wind-Scarred Crag,C
+Windswept Heath,R
+Wooded Foothills,R

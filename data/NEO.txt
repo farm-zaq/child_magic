@@ -1,0 +1,282 @@
+﻿Ancestral Katana,C
+"Ao, the Dawn Sky",M
+Banishing Slash,U
+Befriending the Moths // Imperial Moth,C
+Blade-Blizzard Kitsune,U
+Born to Drive,U
+Brilliant Restoration,R
+Cloudsteel Kirin,R
+Dragonfly Suit,C
+Eiganjo Exemplar,C
+Era of Enlightenment // Hand of Enlightenment,C
+The Fall of Lord Konda // Fragment of Konda,U
+Farewell,R
+Go-Shintai of Shared Purpose,U
+Golden-Tail Disciple,C
+Hotshot Mechanic,U
+Imperial Oath,C
+Imperial Recovery Unit,U
+Imperial Subduer,C
+Intercessor's Arrest,C
+Invoke Justice,R
+Kitsune Ace,C
+"Kyodai, Soul of Kamigawa",R
+Light the Way,C
+"Light-Paws, Emperor's Voice",R
+Lion Sash,R
+Lucky Offering,C
+March of Otherworldly Light,R
+Michiko's Reign of Truth // Portrait of Michiko,U
+Mothrider Patrol,C
+"Norika Yamazaki, the Poet",U
+Regent's Authority,C
+Repel the Vile,C
+The Restoration of Eiganjo // Architect of Restoration,R
+Selfless Samurai,U
+Seven-Tail Mentor,C
+Sky-Blessed Samurai,U
+Spirited Companion,C
+Sunblade Samurai,C
+Touch the Spirit Realm,U
+Wanderer's Intervention,C
+The Wandering Emperor,M
+When We Were Young,U
+Acquisition Octopus,U
+Anchor to Reality,U
+Armguard Familiar,C
+Awakened Awareness,U
+Behold the Unspeakable // Vision of the Unspeakable,U
+Covert Technician,U
+Discover the Impossible,U
+Disruption Protocol,C
+Essence Capture,U
+Futurist Operative,U
+Futurist Sentinel,C
+Go-Shintai of Lost Wisdom,U
+Guardians of Oboro,C
+Inventive Iteration // Living Breakthrough,R
+Invoke the Winds,R
+"Jin-Gitaxias, Progress Tyrant",M
+"Kairi, the Swirling Sky",M
+March of Swirling Mist,R
+Mindlink Mech,R
+Mirrorshell Crab,C
+Mnemonic Sphere,C
+Mobilizer Mech,U
+The Modern Age // Vector Glider,C
+Moon-Circuit Hacker,C
+Moonfolk Puzzlemaker,C
+Moonsnare Prototype,C
+Moonsnare Specialist,C
+Network Disruptor,C
+Planar Incision,C
+Prosperous Thief,U
+The Reality Chip,R
+Reality Heist,U
+Replication Specialist,U
+Saiba Trespassers,C
+Short Circuit,C
+Skyswimmer Koi,C
+Spell Pierce,C
+Suit Up,C
+"Tameshi, Reality Architect",R
+Tamiyo's Compleation,C
+"Tezzeret, Betrayer of Flesh",M
+Thirst for Knowledge,U
+Thousand-Faced Shadow,R
+Assassin's Ink,U
+Biting-Palm Ninja,R
+Blade of the Oni,M
+Chainflail Centipede,C
+Clawing Torment,C
+Debt to the Kami,C
+Dockside Chef,U
+Dokuchi Shadow-Walker,C
+Dokuchi Silencer,U
+Enormous Energy Blade,U
+Go-Shintai of Hidden Cruelty,U
+Gravelighter,U
+"Hidetsugu, Devouring Chaos",R
+Inkrise Infiltrator,C
+Invoke Despair,R
+"Junji, the Midnight Sky",M
+Kaito's Pursuit,C
+Kami of Restless Shadows,C
+Kami of Terrible Secrets,C
+Leech Gauntlet,U
+Lethal Exploit,C
+Life of Toshiro Umezawa // Memory of Toshiro,U
+The Long Reach of Night // Animus of Night's Reach,U
+Malicious Malfunction,U
+March of Wretched Sorrow,R
+Mukotai Ambusher,C
+Mukotai Soulripper,R
+"Nashi, Moon Sage's Scion",M
+Nezumi Bladeblesser,C
+Nezumi Prowler,U
+Okiba Reckoner Raid // Nezumi Road Captain,C
+Okiba Salvage,U
+Reckoner Shakedown,C
+Reckoner's Bargain,C
+Return to Action,C
+Soul Transfer,R
+"Tatsunari, Toad Rider",R
+Tribute to Horobi // Echo of Death's Wail,R
+Twisted Embrace,C
+Undercity Scrounger,C
+Unforgiving One,U
+Virus Beetle,C
+You Are Already Dead,C
+Akki Ember-Keeper,C
+Akki Ronin,C
+Akki War Paint,C
+Ambitious Assault,C
+"Atsushi, the Blazing Sky",M
+Bronzeplate Boar,U
+Crackling Emergence,C
+Dragonspark Reactor,U
+Experimental Synthesizer,C
+Explosive Entry,C
+Explosive Singularity,M
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki,R
+Flame Discharge,U
+Gift of Wrath,C
+Go-Shintai of Ancient Wars,U
+"Goro-Goro, Disciple of Ryusei",R
+"Heiko Yamazaki, the General",U
+Invoke Calamity,R
+Ironhoof Boar,C
+Kami of Industry,C
+Kami's Flare,C
+Kindled Fury,C
+Kumano Faces Kakkazan // Etching of Kumano,U
+Lizard Blades,R
+March of Reckless Joy,R
+Ogre-Head Helm,R
+Peerless Samurai,C
+Rabbit Battery,U
+Reinforced Ronin,U
+Scrap Welder,R
+Scrapyard Steelbreaker,C
+Seismic Wave,U
+The Shattered States Era // Nameless Conqueror,C
+Simian Sling,C
+Sokenzan Smelter,U
+Tempered in Solitude,U
+Thundering Raiju,R
+Towashi Songshaper,C
+Twinshot Sniper,U
+Unstoppable Ogre,C
+Upriser Renegade,U
+Voltage Surge,C
+Azusa's Many Journeys // Likeness of the Seeker,U
+Bamboo Grove Archer,C
+Bearer of Memory,C
+Blossom Prancer,U
+Boon of Boseiju,U
+Boseiju Reaches Skyward // Branch of Boseiju,U
+Careful Cultivation,C
+Coiling Stalker,C
+Commune with Spirits,C
+The Dragon-Kami Reborn // Dragon-Kami's Egg,R
+Fade into Antiquity,C
+Fang of Shigeki,C
+Favor of Jukai,C
+Generous Visitor,U
+Geothermal Kami,C
+Go-Shintai of Boundless Vigor,U
+Grafted Growth,C
+Greater Tanuki,C
+Harmonious Emergence,C
+Heir of the Ancient Fang,C
+Historian's Wisdom,U
+Invoke the Ancients,R
+Jugan Defends the Temple // Remnant of the Rising Star,M
+Jukai Preserver,C
+Jukai Trainee,C
+Kami of Transience,R
+Kappa Tech-Wrecker,U
+Kodama of the West Tree,M
+"Kura, the Boundless Sky",M
+March of Burgeoning Life,R
+Master's Rebuke,C
+Orochi Merge-Keeper,U
+Roaring Earth,U
+Season of Renewal,C
+"Shigeki, Jukai Visionary",R
+Spinning Wheel Kick,U
+Spring-Leaf Avenger,R
+Storyweave,U
+Tales of Master Seshiro // Seshiro's Living Legacy,C
+Tamiyo's Safekeeping,C
+Teachings of the Kirin // Kirin-Touched Orochi,R
+Weaver of Harmony,R
+Webspinner Cuff,U
+Asari Captain,U
+Colossal Skyturtle,U
+Eiganjo Uprising,R
+Enthusiastic Mechanaut,U
+Gloomshrieker,U
+"Greasefang, Okiba Boss",R
+Hidetsugu Consumes All // Vessel of the All-Consuming,M
+"Hinata, Dawn-Crowned",R
+Invigorating Hot Spring,U
+"Isshin, Two Heavens as One",R
+Jukai Naturalist,U
+Kaito Shizuki,M
+The Kami War // O-Kagachi Made Manifest,M
+"Kotose, the Silent Spider",R
+"Naomi, Pillar of Order",U
+Oni-Cult Anvil,U
+Prodigy's Prototype,U
+"Raiyuu, Storm's Edge",R
+"Risona, Asari Commander",R
+Satoru Umezawa,R
+"Satsuki, the Living Lore",R
+Silver-Fur Master,U
+Spirit-Sister's Call,M
+"Tamiyo, Compleated Sage",M
+Automated Artificer,C
+Bronze Cudgels,U
+Brute Suit,C
+Circuit Mender,U
+Containment Construct,U
+Dramatist's Puppet,C
+Eater of Virtue,R
+Ecologist's Terrarium,C
+High-Speed Hoverbike,U
+Iron Apprentice,C
+Mechtitan Core,R
+Mirror Box,R
+Network Terminal,C
+Ninja's Kunai,C
+Papercraft Decoy,C
+Patchwork Automaton,U
+Reckoner Bankbuster,R
+Reito Sentinel,U
+Runaway Trash-Bot,U
+Searchlight Companion,C
+Shrine Steward,C
+Surgehacker Mech,R
+Thundersteel Colossus,C
+Towashi Guide-Bot,U
+Walking Skyscraper,U
+Bloodfell Caves,C
+Blossoming Sands,C
+"Boseiju, Who Endures",R
+Dismal Backwater,C
+"Eiganjo, Seat of the Empire",R
+Jungle Hollow,C
+Mech Hangar,U
+"Otawara, Soaring City",R
+Roadside Reliquary,U
+Rugged Highlands,C
+Scoured Barrens,C
+Secluded Courtyard,U
+"Sokenzan, Crucible of Defiance",R
+Swiftwater Cliffs,C
+"Takenuma, Abandoned Mire",R
+Thornwood Falls,C
+Tranquil Cove,C
+Uncharted Haven,C
+Wind-Scarred Crag,C

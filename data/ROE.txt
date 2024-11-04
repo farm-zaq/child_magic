@@ -1,0 +1,228 @@
+﻿All Is Dust,M
+Artisan of Kozilek,U
+Eldrazi Conscription,R
+"Emrakul, the Aeons Torn",M
+Hand of Emrakul,C
+"Kozilek, Butcher of Truth",M
+It That Betrays,R
+Not of This World,U
+Pathrazer of Ulamog,U
+Skittering Invasion,U
+Spawnsire of Ulamog,R
+"Ulamog, the Infinite Gyre",M
+Ulamog's Crusher,C
+Affa Guard Hound,U
+Caravan Escort,C
+Dawnglare Invoker,C
+Deathless Angel,R
+Demystify,C
+Eland Umbra,C
+Emerge Unscathed,U
+Gideon Jura,M
+Glory Seeker,C
+Guard Duty,C
+Harmless Assault,C
+Hedron-Field Purists,R
+Hyena Umbra,C
+Ikiral Outrider,C
+Kabira Vindicator,U
+Knight of Cliffhaven,C
+Kor Line-Slinger,C
+Kor Spiritdancer,R
+Lightmine Field,R
+"Linvala, Keeper of Silence",M
+Lone Missionary,C
+Luminous Wake,U
+Makindi Griffin,C
+Mammoth Umbra,U
+Near-Death Experience,R
+Nomads' Assembly,R
+Oust,U
+Puncturing Light,C
+Repel the Darkness,C
+Smite,C
+Soul's Attendant,C
+Soulbound Guardians,U
+Stalwart Shield-Bearers,C
+Student of Warfare,R
+Survival Cache,U
+Time of Heroes,U
+Totem-Guide Hartebeest,C
+Transcendent Master,M
+Umbra Mystic,R
+Wall of Omens,U
+Aura Finesse,C
+Cast Through Time,M
+Champion's Drake,C
+Coralhelm Commander,R
+Crab Umbra,U
+Deprive,C
+Distortion Strike,C
+Domestication,U
+Dormant Gomazoa,R
+Drake Umbra,U
+Echo Mage,R
+Eel Umbra,C
+Enclave Cryptologist,U
+Fleeting Distraction,C
+Frostwind Invoker,C
+Gravitational Shift,R
+Guard Gomazoa,U
+Hada Spy Patrol,U
+Halimar Wavewatch,C
+Jwari Scuttler,C
+Lay Bare,C
+Lighthouse Chronologist,M
+Merfolk Observer,C
+Merfolk Skyscout,U
+Mnemonic Wall,C
+Narcolepsy,C
+Phantasmal Abomination,U
+Reality Spasm,U
+Recurring Insight,R
+Regress,C
+Renegade Doppelganger,R
+Sea Gate Oracle,C
+See Beyond,C
+Shared Discovery,C
+Skywatcher Adept,C
+Sphinx of Magosi,R
+Surrakar Spellblade,R
+Training Grounds,R
+Unified Will,U
+Venerated Teacher,C
+Arrogant Bloodlord,U
+Bala Ged Scorpion,C
+Baneful Omen,R
+Bloodrite Invoker,C
+Bloodthrone Vampire,C
+Cadaver Imp,C
+Consume the Meek,R
+Consuming Vapors,R
+Contaminated Ground,C
+Corpsehatch,U
+Curse of Wizardry,U
+Death Cultist,C
+Demonic Appetite,C
+"Drana, Kalastria Bloodchief",R
+Dread Drone,C
+Escaped Null,U
+Essence Feed,C
+Gloomhunter,C
+Guul Draz Assassin,R
+Hellcarver Demon,M
+Induce Despair,C
+Inquisition of Kozilek,U
+Last Kiss,C
+Mortician Beetle,R
+Nighthaze,C
+Nirkana Cutthroat,U
+Nirkana Revenant,M
+Null Champion,C
+Pawn of Ulamog,U
+Perish the Thought,C
+Pestilence Demon,R
+Repay in Kind,R
+Shrivel,C
+Skeletal Wurm,U
+Suffer the Past,U
+Thought Gorger,R
+Vendetta,C
+Virulent Swipe,U
+Zof Shade,C
+Zulaport Enforcer,C
+Akoum Boulderfoot,U
+Battle Rampart,C
+Battle-Rattle Shaman,C
+Brimstone Mage,U
+Brood Birthing,C
+Conquering Manticore,R
+Devastating Summons,R
+Disaster Radius,R
+Emrakul's Hatcher,C
+Explosive Revelation,U
+Fissure Vent,C
+Flame Slash,C
+Forked Bolt,U
+Goblin Arsonist,C
+Goblin Tunneler,C
+Grotag Siege-Runner,C
+Heat Ray,C
+Hellion Eruption,R
+Kargan Dragonlord,M
+Kiln Fiend,C
+Lagac Lizard,C
+Lavafume Invoker,C
+Lord of Shatterskull Pass,R
+Lust for War,U
+Magmaw,R
+Ogre Sentry,C
+Rage Nimbus,R
+Raid Bombardment,C
+Rapacious One,U
+Soulsurge Elemental,U
+Spawning Breath,C
+Splinter Twin,R
+Staggershock,C
+Surreal Memoir,U
+Traitorous Instinct,U
+Tuktuk the Explorer,R
+Valakut Fireboar,U
+Vent Sentinel,C
+World at War,R
+Wrap in Flames,C
+Ancient Stirrings,C
+Aura Gnarlid,C
+Awakening Zone,R
+Bear Umbra,R
+Beastbreaker of Bala Ged,U
+Boar Umbra,U
+Bramblesnap,U
+Broodwarden,U
+Daggerback Basilisk,C
+Gelatinous Genesis,R
+Gigantomancer,R
+Gravity Well,U
+Growth Spasm,C
+Haze Frog,C
+Irresistible Prey,U
+Jaddi Lifestrider,U
+Joraga Treespeaker,U
+Kazandu Tuskcaller,R
+Khalni Hydra,M
+Kozilek's Predator,C
+Leaf Arrow,C
+Living Destiny,C
+Might of the Masses,C
+Momentous Fall,R
+Mul Daya Channelers,R
+Naturalize,C
+Nema Siltlurker,C
+Nest Invader,C
+Ondu Giant,C
+Overgrown Battlement,C
+Pelakka Wurm,U
+Prey's Vengeance,U
+Realms Uncharted,R
+Snake Umbra,C
+Spider Umbra,C
+Sporecap Spider,C
+Stomper Cub,C
+Tajuru Preserver,R
+Vengevine,M
+Wildheart Invoker,C
+Sarkhan the Mad,M
+Angelheart Vial,R
+Dreamstone Hedron,U
+Enatu Golem,U
+Hedron Matrix,R
+Keening Stone,R
+Ogre's Cleaver,U
+Pennon Blade,U
+Prophetic Prism,C
+Reinforced Bulwark,C
+Runed Servitor,U
+Sphinx-Bone Wand,R
+Warmonger's Chariot,U
+Eldrazi Temple,R
+Evolving Wilds,C

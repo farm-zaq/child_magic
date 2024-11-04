@@ -1,0 +1,259 @@
+﻿Acrobatic Maneuver,C
+Aerial Responder,U
+Aetherstorm Roc,R
+Angel of Invention,M
+Authority of the Consuls,R
+Aviary Mechanic,C
+Built to Last,C
+Captured by the Consulate,R
+Cataclysmic Gearhulk,M
+Consulate Surveillance,U
+Consul's Shieldguard,U
+Eddytrail Hawk,C
+Fairgrounds Warden,U
+Fragmentize,C
+Fumigate,R
+Gearshift Ace,U
+Glint-Sleeve Artisan,C
+Herald of the Fair,C
+Impeccable Timing,C
+Inspired Charge,C
+Master Trinketeer,R
+Ninth Bridge Patrol,C
+Pressure Point,C
+Propeller Pioneer,C
+Refurbish,U
+Revoke Privileges,C
+Servo Exhibition,U
+Skyswirl Harrier,C
+Skywhaler's Shot,U
+Tasseled Dromedary,C
+Thriving Ibex,C
+Toolcraft Exemplar,R
+Trusty Companion,U
+Visionary Augmenter,U
+Wispweaver Angel,U
+Aether Meltdown,U
+Aether Theorist,C
+Aether Tradewinds,C
+Aethersquall Ancient,R
+Ceremonious Rejection,U
+Confiscation Coup,R
+Curio Vendor,C
+Disappearing Act,U
+Dramatic Reversal,C
+Era of Innovation,U
+Experimental Aviator,U
+Failed Inspection,C
+Gearseeker Serpent,C
+Glimmer of Genius,U
+Glint-Nest Crane,U
+Hightide Hermit,C
+Insidious Will,R
+Janjeet Sentry,U
+Long-Finned Skywhale,U
+Malfunction,C
+Metallurgic Summonings,M
+Minister of Inquiries,U
+Nimble Innovator,C
+"Padeem, Consul of Innovation",R
+Paradoxical Outcome,R
+Revolutionary Rebuff,C
+Saheeli's Artistry,R
+Select for Inspection,C
+Shrewd Negotiation,U
+Tezzeret's Ambition,C
+Thriving Turtle,C
+Torrential Gearhulk,M
+Vedalken Blademaster,C
+Weldfast Wingsmith,C
+Wind Drake,C
+Aetherborn Marauder,U
+Ambitious Aetherborn,C
+Demon of Dark Schemes,M
+Dhund Operative,C
+Diabolic Tutor,U
+Die Young,C
+Dukhara Scavenger,C
+Eliminate the Competition,R
+Embraal Bruiser,U
+Essence Extraction,U
+Fortuitous Find,C
+Foundry Screecher,C
+Fretwork Colony,U
+"Gonti, Lord of Luxury",R
+Harsh Scrutiny,U
+Lawless Broker,C
+Live Fast,C
+Lost Legacy,R
+Make Obsolete,U
+Marionette Master,R
+Maulfist Squad,C
+Midnight Oil,R
+Mind Rot,C
+Morbid Curiosity,U
+Night Market Lookout,C
+Noxious Gearhulk,M
+Ovalchase Daredevil,U
+Prakhata Club Security,C
+Rush of Vitality,C
+Subtle Strike,C
+Syndicate Trafficker,R
+Thriving Rats,C
+Tidy Conclusion,C
+Underhanded Designs,U
+Weaponcraft Enthusiast,U
+Aethertorch Renegade,U
+Brazen Scourge,U
+Built to Smash,C
+Cathartic Reunion,C
+"Chandra, Torch of Defiance",M
+Chandra's Pyrohelix,C
+Combustible Gearhulk,M
+Demolish,C
+Fateful Showdown,R
+Furious Reprisal,U
+Giant Spectacle,C
+Harnessed Lightning,U
+Hijack,C
+Incendiary Sabotage,U
+Inventor's Apprentice,U
+Lathnu Hellion,R
+Madcap Experiment,R
+Maulfist Doorbuster,U
+Pia Nalaar,R
+Quicksmith Genius,U
+Reckless Fireweaver,C
+Renegade Tactics,C
+Ruinous Gremlin,C
+Salivating Gremlins,C
+Skyship Stalker,R
+Spark of Creativity,U
+Speedway Fanatic,U
+Spireside Infiltrator,C
+Spontaneous Artist,C
+Start Your Engines,U
+Territorial Gorger,R
+Terror of the Fairgrounds,C
+Thriving Grubs,C
+Wayward Giant,C
+Welding Sparks,C
+Appetite for the Unnatural,C
+Arborback Stomper,U
+Architect of the Untamed,R
+Armorcraft Judge,U
+Attune with Aether,C
+Blossoming Defense,U
+Bristling Hydra,R
+Commencement of Festivities,C
+Cowl Prowler,C
+Creeping Mold,U
+Cultivator of Blades,R
+Dubious Challenge,R
+Durable Handicraft,U
+Elegant Edgecrafters,U
+Fairgrounds Trumpeter,U
+Ghirapur Guide,U
+Highspire Artisan,C
+Hunt the Weak,C
+Kujar Seedsculptor,C
+Larger Than Life,C
+Longtusk Cub,U
+Nature's Way,U
+"Nissa, Vital Force",M
+Ornamental Courage,C
+"Oviya Pashiri, Sage Lifecrafter",R
+Peema Outrider,C
+Riparian Tiger,C
+Sage of Shaila's Claim,C
+Servant of the Conduit,U
+Take Down,C
+Thriving Rhino,C
+Verdurous Gearhulk,M
+Wild Wanderer,C
+Wildest Dreams,R
+Wily Bandar,C
+Cloudblazer,U
+Contraband Kingpin,U
+"Depala, Pilot Exemplar",R
+Dovin Baan,M
+Empyreal Voyager,U
+Engineered Might,U
+Hazardous Conditions,U
+"Kambal, Consul of Allocation",R
+"Rashmi, Eternities Crafter",M
+Restoration Gearsmith,U
+Saheeli Rai,M
+Unlicensed Disintegration,U
+Veteran Motorist,U
+Voltaic Brawler,U
+Whirler Virtuoso,U
+Accomplished Automaton,C
+Aetherflux Reservoir,R
+Aetherworks Marvel,M
+Animation Module,R
+Aradara Express,C
+Ballista Charger,U
+Bastion Mastodon,C
+Bomat Bazaar Barge,U
+Bomat Courier,R
+Chief of the Foundry,U
+Cogworker's Puzzleknot,C
+Consulate Skygate,C
+Cultivator's Caravan,R
+Deadlock Trap,R
+Decoction Module,U
+Demolition Stomper,U
+Dukhara Peafowl,C
+Dynavolt Tower,R
+Eager Construct,C
+Electrostatic Pummeler,R
+Fabrication Module,U
+Filigree Familiar,U
+Fireforger's Puzzleknot,C
+Fleetwheel Cruiser,R
+Foundry Inspector,U
+Ghirapur Orrery,R
+Glassblower's Puzzleknot,C
+Inventor's Goggles,C
+Iron League Steed,U
+Key to the City,R
+Metalspinner's Puzzleknot,C
+Metalwork Colossus,R
+Multiform Wonder,R
+Narnam Cobra,C
+Ovalchase Dragster,U
+Panharmonicon,R
+Perpetual Timepiece,U
+Prakhata Pillar-Bug,C
+Prophetic Prism,C
+Renegade Freighter,C
+Scrapheap Scrounger,R
+Self-Assembler,C
+Sky Skiff,C
+"Skysovereign, Consul Flagship",M
+Smuggler's Copter,R
+Snare Thopter,U
+Torch Gauntlet,C
+Weldfast Monitor,C
+Whirlermaker,U
+Woodweaver's Puzzleknot,C
+Workshop Assistant,C
+Aether Hub,U
+Blooming Marsh,R
+Botanical Sanctum,R
+Concealed Courtyard,R
+Inspiring Vantage,R
+Inventors' Fair,R
+Sequestered Stash,U
+Spirebluff Canal,R
+"Chandra, Pyrogenius",M
+Flame Lash,C
+Liberating Combustion,R
+Renegade Firebrand,U
+Stone Quarry,C
+"Nissa, Nature's Artisan",M
+Guardian of the Great Conduit,U
+Terrain Elemental,C
+Verdant Crescendo,R
+Woodland Stream,C

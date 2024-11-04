@@ -1,0 +1,249 @@
+﻿Aerial Maneuver,C
+Angelic Edict,C
+Angelic Skirmisher,R
+Assault Griffin,C
+Basilica Guards,C
+Blind Obedience,R
+Boros Elite,U
+Court Street Denizen,C
+Daring Skyjek,C
+Debtor's Pulpit,U
+Dutiful Thrull,C
+Frontline Medic,R
+"Gideon, Champion of Justice",M
+Guardian of the Gateless,U
+Guildscorn Ward,C
+Hold the Gates,U
+Holy Mantle,U
+Knight of Obligation,U
+Knight Watch,C
+Luminate Primordial,R
+Murder Investigation,U
+Nav Squad Commandos,C
+Righteous Charge,U
+Shielded Passage,C
+Smite,C
+Syndic of Tithes,C
+Urbis Protector,U
+Zarichi Tiger,C
+Aetherize,U
+Agoraphobia,U
+Clinging Anemones,C
+Cloudfin Raptor,C
+Diluvian Primordial,R
+Enter the Infinite,M
+Frilled Oculus,C
+Gridlock,U
+Hands of Binding,C
+Incursion Specialist,U
+Keymaster Rogue,C
+Last Thoughts,C
+Leyline Phantom,C
+Metropolis Sprite,C
+Mindeye Drake,U
+Rapid Hybridization,U
+Realmwright,R
+Sage's Row Denizen,C
+Sapphire Drake,U
+Scatter Arc,C
+Simic Fluxmage,U
+Simic Manipulator,R
+Skygames,C
+Spell Rupture,C
+Stolen Identity,R
+Totally Lost,C
+Voidwalk,U
+Way of the Thief,C
+Balustrade Spy,C
+Basilica Screecher,C
+Contaminated Ground,C
+Corpse Blockade,C
+Crypt Ghast,R
+Death's Approach,C
+Devour Flesh,C
+Dying Wish,U
+Gateway Shade,U
+Grisly Spectacle,C
+Gutter Skulk,C
+Horror of the Dim,C
+Illness in the Ranks,U
+Killing Glare,U
+Lord of the Void,M
+Mental Vapors,U
+Midnight Recovery,C
+Ogre Slumlord,R
+Sepulchral Primordial,R
+Shadow Alley Denizen,C
+Shadow Slice,C
+Slate Street Ruffian,C
+Smog Elemental,U
+Syndicate Enforcer,C
+Thrull Parasite,U
+Undercity Informer,U
+Undercity Plague,R
+Wight of Precinct Six,U
+Act of Treason,C
+Bomber Corps,C
+Cinder Elemental,U
+Crackling Perimeter,U
+Ember Beast,C
+Firefist Striker,U
+Five-Alarm Fire,R
+Foundry Street Denizen,C
+Furious Resistance,C
+Hellkite Tyrant,M
+Hellraiser Goblin,U
+Homing Lightning,U
+Legion Loyalist,R
+Madcap Skills,C
+Mark for Death,U
+Massive Raid,C
+Molten Primordial,R
+Mugging,C
+Ripscale Predator,U
+Scorchwalker,C
+Skinbrand Goblin,C
+Skullcrack,U
+Structural Collapse,C
+Tin Street Market,C
+Towering Thunderfist,C
+Viashino Shanktail,U
+Warmind Infantry,C
+Wrecking Ogre,R
+Adaptive Snapjaw,C
+Alpha Authority,U
+Burst of Strength,C
+Crocanura,C
+Crowned Ceratok,U
+Disciple of the Old Ways,C
+Experiment One,U
+Forced Adaptation,C
+Giant Adephage,M
+Greenside Watcher,C
+Gyre Sage,R
+Hindervines,U
+Ivy Lane Denizen,C
+Miming Slime,U
+Naturalize,C
+Ooze Flux,R
+Predator's Rapport,C
+Rust Scarab,U
+Scab-Clan Charger,C
+Serene Remembrance,U
+Skarrg Goliath,R
+Slaughterhorn,C
+Spire Tracer,C
+Sylvan Primordial,R
+Tower Defense,U
+Verdant Haven,C
+Wasteland Viper,U
+Wildwood Rebirth,C
+Alms Beast,R
+Assemble the Legion,R
+"Aurelia, the Warleader",M
+Aurelia's Fury,M
+Bane Alley Broker,U
+Biovisionary,R
+Borborygmos Enraged,M
+Boros Charm,U
+Call of the Nightwing,U
+Cartel Aristocrat,U
+Clan Defiance,R
+Consuming Aberration,R
+Deathpact Angel,M
+Dimir Charm,U
+Dinrova Horror,U
+Domri Rade,M
+Drakewing Krasis,C
+Duskmantle Guildmage,U
+Duskmantle Seer,M
+Elusive Krasis,U
+Executioner's Swing,C
+Fathom Mage,R
+Firemane Avenger,R
+Fortress Cyclops,U
+Foundry Champion,R
+Frenzied Tilling,U
+Ghor-Clan Rampager,U
+Ground Assault,U
+Gruul Charm,U
+Gruul Ragebeast,R
+High Priest of Penance,R
+Hydroform,C
+Kingpin's Pet,C
+"Lazav, Dimir Mastermind",M
+Martial Glory,C
+Master Biomancer,M
+Merciless Eviction,R
+Mind Grind,R
+Mortus Strider,C
+Mystic Genesis,R
+Nimbus Swimmer,U
+"Obzedat, Ghost Council",M
+One Thousand Lashes,U
+Ordruun Veteran,U
+Orzhov Charm,U
+Paranoid Delusions,C
+Primal Visitation,C
+Prime Speaker Zegana,M
+Psychic Strike,C
+Purge the Profane,C
+Rubblehulk,R
+Ruination Wurm,C
+Shambleshark,C
+Signal the Clans,R
+Simic Charm,U
+Skarrg Guildmage,U
+Skyknight Legionnaire,C
+Soul Ransom,R
+Spark Trooper,R
+Sunhome Guildmage,U
+Treasury Thrull,R
+Truefire Paladin,U
+Unexpected Results,R
+Urban Evolution,U
+Vizkopa Confessor,U
+Vizkopa Guildmage,U
+Whispering Madness,R
+Wojek Halberdiers,C
+Zameck Guildmage,U
+Zhur-Taa Swine,C
+Arrows of Justice,U
+Beckon Apparition,C
+Biomass Mutation,R
+Bioshift,C
+Boros Reckoner,R
+Burning-Tree Emissary,U
+Coerced Confession,U
+Deathcult Rogue,C
+Gift of Orzhova,U
+Immortal Servitude,R
+Merfolk of the Depths,U
+Nightveil Specter,R
+Pit Fight,C
+Rubblebelt Raiders,R
+Shattering Blow,C
+Armored Transport,C
+Boros Keyrune,U
+Dimir Keyrune,U
+Glaring Spotlight,R
+Gruul Keyrune,U
+Illusionist's Bracers,R
+Millennial Gargoyle,C
+Orzhov Keyrune,U
+Prophetic Prism,C
+Razortip Whip,C
+Riot Gear,C
+Simic Keyrune,U
+Skyblinder Staff,C
+Boros Guildgate,C
+Breeding Pool,R
+Dimir Guildgate,C
+Godless Shrine,R
+Gruul Guildgate,C
+Orzhov Guildgate,C
+Sacred Foundry,R
+Simic Guildgate,C
+Stomping Ground,R
+Thespian's Stage,R
+Watery Grave,R

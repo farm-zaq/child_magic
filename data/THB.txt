@@ -1,0 +1,268 @@
+﻿Alseid of Life's Bounty,U
+Archon of Falling Stars,U
+Archon of Sun's Grace,R
+Banishing Light,U
+The Birth of Meletis,U
+Captivating Unicorn,C
+Commanding Presence,U
+Dawn Evangel,U
+"Daxos, Blessed by the Sun",U
+Daybreak Chimera,C
+Dreadful Apathy,C
+Eidolon of Obstruction,R
+Elspeth Conquers Death,R
+"Elspeth, Sun's Nemesis",M
+Favored of Iroas,U
+Flicker of Fate,C
+Glory Bearers,C
+"Heliod, Sun-Crowned",M
+Heliod's Intervention,R
+Heliod's Pilgrim,C
+Heliod's Punishment,U
+Hero of the Pride,C
+Hero of the Winds,U
+Idyllic Tutor,R
+Indomitable Will,C
+Karametra's Blessing,C
+Lagonna-Band Storyteller,U
+Leonin of the Lost Pride,C
+Nyxborn Courser,C
+Omen of the Sun,C
+Phalanx Tactics,U
+Pious Wayfarer,C
+Reverent Hoplite,U
+Revoke Existence,C
+Rumbling Sentry,C
+Sentinel's Eyes,C
+Shatter the Sky,R
+Sunmane Pegasus,C
+"Taranika, Akroan Veteran",R
+Transcendent Envoy,C
+Triumphant Surge,C
+"Alirios, Enraptured",U
+Ashiok's Erasure,R
+Brine Giant,C
+"Callaphe, Beloved of the Sea",U
+Chain to Memory,C
+Deny the Divine,C
+Eidolon of Philosophy,C
+Elite Instructor,C
+Glimpse of Freedom,U
+Ichthyomorphosis,C
+Kiora Bests the Sea God,M
+Medomai's Prophecy,U
+Memory Drain,C
+Nadir Kraken,R
+Naiad of Hidden Coves,C
+Nyxborn Seaguard,C
+Omen of the Sea,C
+One with the Stars,U
+Protean Thaumaturge,R
+Riptide Turtle,C
+Sage of Mysteries,U
+Sea God's Scorn,U
+Shimmerwing Chimera,U
+Shoal Kraken,U
+Sleep of the Dead,C
+Starlit Mantle,C
+Stern Dismissal,C
+Stinging Lionfish,U
+Sweet Oblivion,U
+"Thassa, Deep-Dwelling",M
+Thassa's Intervention,R
+Thassa's Oracle,R
+Thirst for Meaning,C
+Threnody Singer,U
+"Thryx, the Sudden Storm",R
+Towering-Wave Mystic,C
+Triton Waverider,C
+Vexing Gull,C
+Wavebreak Hippocamp,R
+Whirlwind Denial,U
+Witness of Tomorrows,C
+Agonizing Remorse,U
+"Aphemia, the Cacophony",R
+Aspect of Lamprey,C
+Blight-Breath Catoblepas,C
+Cling to Dust,U
+Discordant Piper,C
+Drag to the Underworld,U
+Eat to Extinction,R
+Elspeth's Nightmare,U
+Enemy of Enlightenment,U
+"Erebos, Bleak-Hearted",M
+Erebos's Intervention,R
+Final Death,C
+Fruit of Tizerus,C
+Funeral Rites,C
+Gravebreaker Lamia,R
+Gray Merchant of Asphodel,U
+Grim Physician,C
+Hateful Eidolon,U
+Inevitable End,U
+Lampad of Death's Vigil,C
+Minion's Return,U
+Mire Triton,U
+Mire's Grasp,C
+Mogis's Favor,C
+Nightmare Shepherd,R
+Nyxborn Marauder,C
+Omen of the Dead,C
+Pharika's Libation,C
+Pharika's Spawn,U
+Rage-Scarred Berserker,C
+Scavenging Harpy,C
+Soulreaper of Mogis,C
+Temple Thief,C
+Treacherous Blessing,R
+Tymaret Calls the Dead,R
+"Tymaret, Chosen from Death",U
+Underworld Charger,C
+Underworld Dreams,U
+Venomous Hierophant,C
+Woe Strider,R
+The Akroan War,R
+"Anax, Hardened in the Forge",U
+Arena Trickster,C
+Aspect of Manticore,C
+Blood Aspirant,U
+Careless Celebrant,U
+Dreamshaper Shaman,U
+Dreamstalker Manticore,U
+Escape Velocity,U
+Fateful End,U
+Final Flare,C
+Flummoxed Cyclops,C
+Furious Rise,U
+Hero of the Games,C
+Heroes of the Revel,U
+Impending Doom,U
+Incendiary Oracle,C
+Infuriate,C
+Iroas's Blessing,C
+Irreverent Revelers,C
+Nyxborn Brute,C
+Omen of the Forge,C
+Oread of Mountain's Blaze,C
+Ox of Agonas,M
+Phoenix of Ash,R
+Portent of Betrayal,C
+"Purphoros, Bronze-Blooded",M
+Purphoros's Intervention,R
+Satyr's Cunning,C
+Skophos Maze-Warden,U
+Skophos Warleader,C
+Stampede Rider,C
+Storm Herald,R
+Storm's Wrath,R
+Tectonic Giant,R
+Thrill of Possibility,C
+The Triumph of Anax,U
+Underworld Breach,R
+Underworld Fires,U
+Underworld Rage-Hound,C
+Wrap in Flames,C
+Arasta of the Endless Web,R
+The Binding of the Titans,U
+Chainweb Aracnir,U
+Destiny Spinner,U
+Dryad of the Ilysian Grove,R
+The First Iroan Games,R
+Gift of Strength,C
+Hydra's Growth,U
+Hyrax Tower Scout,C
+Ilysian Caryatid,C
+Inspire Awe,C
+Klothys's Design,U
+Loathsome Chimera,C
+Mantle of the Wolf,R
+Moss Viper,C
+Mystic Repeal,U
+Nessian Boar,R
+Nessian Hornbeetle,U
+Nessian Wanderer,U
+Nexus Wardens,C
+"Nylea, Keen-Eyed",M
+Nylea's Forerunner,C
+Nylea's Huntmaster,C
+Nylea's Intervention,R
+Nyx Herald,U
+Nyxbloom Ancient,M
+Nyxborn Colossus,C
+Omen of the Hunt,C
+Pheres-Band Brawler,U
+Plummet,C
+Relentless Pursuit,C
+"Renata, Called to the Hunt",U
+Return to Nature,C
+Setessan Champion,R
+Setessan Petitioner,U
+Setessan Skirmisher,C
+Setessan Training,C
+Skola Grovedancer,C
+Voracious Typhon,C
+Warbriar Blessing,C
+Wolfwillow Haven,U
+Acolyte of Affliction,U
+Allure of the Unknown,R
+"Ashiok, Nightmare Muse",M
+"Atris, Oracle of Half-Truths",R
+Bronzehide Lion,R
+"Calix, Destiny's Hand",M
+"Dalakos, Crafter of Wonders",R
+Devourer of Memory,U
+Dream Trawler,R
+Enigmatic Incarnation,R
+Eutropia the Twice-Favored,U
+Gallia of the Endless Dance,R
+Haktos the Unscarred,R
+Hero of the Nyxborn,U
+"Klothys, God of Destiny",M
+"Kroxa, Titan of Death's Hunger",M
+"Kunoros, Hound of Athreos",R
+Mischievous Chimera,U
+"Polukranos, Unchained",M
+Rise to Glory,U
+"Siona, Captain of the Pyleas",U
+Slaughter-Priest of Mogis,U
+Staggering Insight,U
+"Uro, Titan of Nature's Wrath",M
+Warden of the Chained,U
+Altar of the Pantheon,C
+Bronze Sword,C
+Entrancing Lyre,U
+Mirror Shield,U
+Nyx Lotus,R
+Shadowspear,R
+Soul-Guide Lantern,U
+Thaumaturge's Familiar,C
+Thundering Chariot,U
+Traveler's Amulet,C
+Wings of Hubris,C
+Field of Ruin,U
+Labyrinth of Skophos,R
+Temple of Abandon,R
+Temple of Deceit,R
+Temple of Enlightenment,R
+Temple of Malice,R
+Temple of Plenty,R
+Unknown Shores,C
+"Athreos, Shroud-Veiled",M
+"Elspeth, Undaunted Hero",M
+Eidolon of Inspiration,U
+Elspeth's Devotee,R
+Sunlit Hoplite,C
+"Ashiok, Sculptor of Fears",M
+Swimmer in Nightmares,U
+Mindwrack Harpy,C
+Ashiok's Forerunner,R
+Grasping Giant,R
+Victory's Envoy,R
+Sphinx Mindbreaker,R
+Serpent of Yawning Depths,R
+Demon of Loathing,R
+Underworld Sentinel,R
+Deathbellow War Cry,R
+Terror of Mount Velus,R
+Ironscale Hydra,R
+Treeshaker Chimera,R

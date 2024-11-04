@@ -1,0 +1,286 @@
+﻿Altar's Light,U
+Arrest,C
+Auriok Bladewarden,U
+Auriok Steelshaper,R
+Auriok Transfixer,C
+Awe Strike,C
+Blinding Beam,C
+Leonin Abunas,R
+Leonin Den-Guard,C
+Leonin Elder,C
+Leonin Skyhunter,U
+Loxodon Mender,C
+Loxodon Peacekeeper,R
+Loxodon Punisher,R
+Luminous Angel,R
+Raise the Alarm,C
+Razor Barrier,C
+Roar of the Kha,U
+Rule of Law,R
+Second Sunrise,R
+Skyhunter Cub,C
+Skyhunter Patrol,C
+Slith Ascendant,U
+Solar Tide,R
+Soul Nova,U
+Sphere of Purity,C
+Taj-Nar Swordsmith,U
+Tempest of Light,U
+Annul,C
+Assert Authority,U
+Broodstar,R
+Disarm,C
+Domineer,U
+Dream's Grip,C
+Fabricate,U
+Fatespinner,R
+Inertia Bubble,C
+Looming Hoverguard,U
+Lumengrid Augur,R
+Lumengrid Sentinel,U
+Lumengrid Warden,C
+March of the Machines,R
+Neurok Familiar,C
+Neurok Spy,C
+Override,C
+Psychic Membrane,U
+Quicksilver Elemental,R
+Regress,C
+Shared Fate,R
+Slith Strider,U
+Somber Hoverguard,C
+Temporal Cascade,R
+Thirst for Knowledge,U
+Thoughtcast,C
+Vedalken Archmage,R
+Wanderguard Sentry,C
+Barter in Blood,U
+Betrayal of Flesh,U
+Chimney Imp,C
+Consume Spirit,C
+Contaminated Bond,C
+Disciple of the Vault,C
+Dross Harvester,R
+Dross Prowler,C
+Flayed Nim,U
+Grim Reminder,R
+Irradiate,C
+Moriok Scavenger,C
+Necrogen Mists,R
+Nim Devourer,R
+Nim Lasher,C
+Nim Shambler,U
+Nim Shrieker,C
+Promise of Power,R
+Reiver Demon,R
+Relic Bane,U
+Slith Bloodletter,U
+Spoils of the Vault,R
+Terror,C
+Vermiculos,R
+Wail of the Nim,C
+Wall of Blood,U
+Woebearer,U
+Wrench Mind,C
+Arc-Slogger,R
+Atog,U
+Confusion in the Ranks,R
+Detonate,U
+Electrostatic Bolt,C
+Fiery Gambit,R
+Fists of the Anvil,C
+Forge Armor,U
+Fractured Loyalty,U
+Goblin Striker,C
+Grab the Reins,U
+Incite War,C
+Krark-Clan Grunt,C
+Krark-Clan Shaman,C
+Mass Hysteria,R
+Megatog,R
+Molten Rain,C
+Ogre Leadfoot,C
+Rustmouth Ogre,U
+Seething Song,C
+Shatter,C
+Shrapnel Blast,U
+Slith Firewalker,U
+Spikeshot Goblin,C
+Trash for Treasure,R
+Vulshok Battlemaster,R
+Vulshok Berserker,C
+War Elemental,R
+Battlegrowth,C
+Bloodscent,U
+Brown Ouphe,U
+Copperhoof Vorrac,R
+Creeping Mold,U
+Deconstruct,C
+Fangren Hunter,C
+Glissa Sunseeker,R
+Groffskithur,C
+Hum of the Radix,R
+Journey of Discovery,C
+Living Hive,R
+Molder Slug,R
+One Dozen Eyes,U
+Plated Slagwurm,R
+Predator's Strike,C
+Slith Predator,U
+Sylvan Scrying,U
+Tel-Jilad Archers,C
+Tel-Jilad Chosen,C
+Tel-Jilad Exile,C
+Tooth and Nail,R
+Troll Ascetic,R
+Trolls of Tel-Jilad,U
+Turn to Dust,C
+Viridian Joiner,C
+Viridian Shaman,U
+Wurmskin Forger,C
+Aether Spellbomb,C
+Alpha Myr,C
+Altar of Shadows,R
+Banshee's Blade,U
+Blinkmoth Urn,R
+Bonesplitter,C
+"Bosh, Iron Golem",R
+Bottle Gnomes,U
+Cathodion,U
+Chalice of the Void,R
+Chromatic Sphere,C
+Chrome Mox,R
+Clockwork Beetle,C
+Clockwork Condor,C
+Clockwork Dragon,R
+Clockwork Vorrac,U
+Cobalt Golem,C
+Copper Myr,C
+Crystal Shard,U
+Culling Scales,R
+Damping Matrix,R
+Dead-Iron Sledge,U
+Dragon Blood,U
+Dross Scorpion,C
+Duplicant,R
+Duskworker,U
+Elf Replica,C
+Empyrial Plate,R
+Extraplanar Lens,R
+Farsight Mask,U
+Fireshrieker,U
+Frogmite,C
+Galvanic Key,C
+Gate to the Aether,R
+Gilded Lotus,R
+Goblin Charbelcher,R
+Goblin Dirigible,U
+Goblin Replica,C
+Goblin War Wagon,C
+Gold Myr,C
+Golem-Skin Gauntlets,U
+Granite Shard,U
+Grid Monitor,R
+Heartwood Shard,U
+Hematite Golem,C
+Icy Manipulator,U
+Iron Myr,C
+Isochron Scepter,U
+Jinxed Choker,R
+Krark's Thumb,R
+Leaden Myr,C
+Leonin Bladetrap,U
+Leonin Scimitar,C
+Leonin Sun Standard,R
+Leveler,R
+Liar's Pendulum,R
+Lifespark Spellbomb,C
+Lightning Coils,R
+Lightning Greaves,U
+Lodestone Myr,R
+Loxodon Warhammer,U
+Malachite Golem,C
+Mask of Memory,U
+Mesmeric Orb,R
+Mind's Eye,R
+Mindslaver,R
+Mindstorm Crown,U
+Mirror Golem,U
+Mourner's Shield,U
+Myr Adapter,C
+Myr Enforcer,C
+Myr Incubator,R
+Myr Mindservant,U
+Myr Prototype,U
+Myr Retriever,U
+Necrogen Spellbomb,C
+Needlebug,U
+Neurok Hoversail,C
+Nightmare Lash,R
+Nim Replica,C
+Nuisance Engine,U
+Oblivion Stone,R
+Omega Myr,C
+Ornithopter,U
+Pearl Shard,U
+Pentavus,R
+Pewter Golem,C
+Platinum Angel,R
+Power Conduit,U
+Proteus Staff,R
+Psychogenic Probe,R
+Pyrite Spellbomb,C
+Quicksilver Fountain,R
+Rust Elemental,U
+Rustspore Ram,U
+Scale of Chiss-Goria,C
+Scrabbling Claws,U
+Sculpting Steel,R
+Scythe of the Wretched,R
+Serum Tank,U
+Silver Myr,C
+Skeleton Shard,U
+Slagwurm Armor,C
+Soldier Replica,C
+Solemn Simulacrum,R
+Soul Foundry,R
+Spellweaver Helix,R
+Steel Wall,C
+Sun Droplet,U
+Sunbeam Spellbomb,C
+Sword of Kaldra,R
+Synod Sanctum,U
+Talisman of Dominance,U
+Talisman of Impulse,U
+Talisman of Indulgence,U
+Talisman of Progress,U
+Talisman of Unity,U
+Tanglebloom,C
+Tangleroot,R
+Tel-Jilad Stylus,U
+Thought Prison,U
+Timesifter,R
+Titanium Golem,C
+Tooth of Chiss-Goria,C
+Tower of Champions,R
+Tower of Eons,R
+Tower of Fortunes,R
+Tower of Murmurs,R
+Triskelion,R
+Viridian Longbow,C
+Vorrac Battlehorns,C
+Vulshok Battlegear,U
+Vulshok Gauntlets,C
+Welding Jar,C
+Wizard Replica,C
+Worldslayer,R
+Yotian Soldier,C
+Ancient Den,C
+Blinkmoth Well,U
+Cloudpost,C
+Glimmervoid,R
+Great Furnace,C
+Seat of the Synod,C
+Stalking Stones,U
+Tree of Tales,C
+Vault of Whispers,C

@@ -1,0 +1,259 @@
+﻿Adaptive Shimmerer,C
+Farfinder,C
+Mysterious Egg,C
+Blade Banish,C
+Checkpoint Officer,C
+Coordinated Charge,C
+Cubwarden,R
+Daysquad Marshal,C
+Divine Arrow,C
+Drannith Healer,C
+Drannith Magistrate,R
+Fight as One,U
+Flourishing Fox,U
+Garrison Cat,C
+Helica Glider,C
+Huntmaster Liger,U
+Imposing Vantasaur,C
+Keensight Mentor,U
+Lavabrink Venturer,R
+Light of Hope,C
+Luminous Broodmoth,M
+Majestic Auricorn,U
+Maned Serval,C
+Mythos of Snapdax,R
+Pacifism,C
+Patagia Tiger,C
+Perimeter Sergeant,C
+Sanctuary Lockdown,U
+Savai Sabertooth,C
+Snare Tactician,C
+Solid Footing,C
+Splendor Mare,U
+Spontaneous Flight,C
+Stormwild Capridor,U
+Swallow Whole,U
+Valiant Rescuer,U
+Vulpikeet,C
+Will of the All-Hunter,U
+Aegis Turtle,C
+Anticipate,C
+Archipelagore,U
+Avian Oddity,U
+Boon of the Wish-Giver,U
+Capture Sphere,C
+Convolute,C
+Crystacean,C
+Dreamtail Heron,C
+Escape Protocol,U
+Essence Scatter,C
+Facet Reader,C
+Frost Lynx,C
+Frostveil Ambush,C
+Glimmerbell,C
+Gust of Wind,C
+Hampering Snare,C
+Keep Safe,C
+Mystic Subdual,U
+Mythos of Illuna,R
+Neutralize,U
+Of One Mind,C
+Ominous Seas,U
+Phase Dolphin,C
+Pollywog Symbiote,U
+Pouncing Shoreshark,U
+Reconnaissance Mission,U
+Sea-Dasher Octopus,R
+Shark Typhoon,R
+Startling Development,C
+Thieving Otter,C
+Voracious Greatshark,R
+Wingfold Pteron,C
+Wingspan Mentor,U
+Bastion of Remembrance,U
+Blitz Leech,C
+Blood Curdle,C
+Boot Nipper,C
+Bushmeat Poacher,C
+Call of the Death-Dweller,U
+Cavern Whisperer,C
+Chittering Harvester,U
+Corpse Churn,C
+Dark Bargain,C
+Dead Weight,C
+Dirge Bat,R
+Durable Coilbug,C
+Duskfang Mentor,U
+Easy Prey,U
+Extinction Event,R
+Gloom Pangolin,C
+Grimdancer,U
+Heartless Act,U
+Hunted Nightmare,R
+Insatiable Hemophage,U
+Lurking Deadeye,C
+Memory Leak,C
+Mutual Destruction,C
+Mythos of Nethroi,R
+Nightsquad Commando,C
+Serrated Scorpion,C
+Suffocating Fumes,C
+Unbreakable Bond,U
+Unexpected Fangs,C
+Unlikely Aid,C
+Void Beckoner,U
+Whisper Squad,C
+Zagoth Mamba,U
+Blazing Volley,C
+Blisterspit Gremlin,C
+Blitz of the Thunder-Raptor,U
+Cathartic Reunion,C
+Clash of Titans,U
+Cloudpiercer,C
+Drannith Stinger,C
+Everquill Phoenix,R
+Ferocious Tigorilla,C
+Fire Prophecy,C
+Flame Spill,U
+Footfall Crater,U
+Forbidden Friendship,C
+Frenzied Raptor,C
+Frillscare Mentor,U
+Go for Blood,C
+Heightened Reflexes,C
+Lava Serpent,C
+Lukka, Coppercoat Outcast,M
+Momentum Rumbler,U
+Mythos of Vadrok,R
+Porcuparrot,U
+Prickly Marmoset,C
+Pyroceratops,C
+Raking Claws,C
+Reptilian Reflection,U
+Rooting Moloch,U
+Rumbling Rockslide,C
+Sanctuary Smasher,U
+Shredded Sails,C
+Spelleater Wolverine,C
+Tentative Connection,C
+Unpredictable Cyclone,R
+Weaponize the Monsters,U
+Yidaro, Wandering Monster,R
+Adventurous Impulse,C
+Almighty Brushwagg,C
+Auspicious Starrix,U
+Barrier Breach,U
+Bristling Boar,C
+Charge of the Forever-Beast,U
+Colossification,R
+Essence Symbiote,C
+Excavation Mole,C
+Exuberant Wolfbear,U
+Fertilid,C
+Flycatcher Giraffid,C
+Fully Grown,C
+Gemrazer,R
+Glowstone Recluse,U
+Greater Sandwurm,C
+Honey Mammoth,C
+Hornbash Mentor,U
+Humble Naturalist,C
+Ivy Elemental,U
+Kogla, the Titan Ape,R
+Lead the Stampede,U
+Migration Path,U
+Migratory Greathorn,C
+Monstrous Step,U
+Mosscoat Goriak,C
+Mythos of Brokkos,R
+Plummet,C
+Ram Through,C
+Sudden Spinnerets,C
+Survivors' Bond,C
+Thwart the Enemy,C
+Titanoth Rex,U
+Vivien, Monsters' Advocate,M
+Wilt,C
+Back for More,U
+Boneyard Lurker,U
+Brokkos, Apex of Forever,M
+Channeled Force,U
+Chevill, Bane of Monsters,M
+Death's Oasis,R
+Dire Tactics,U
+Eerie Ultimatum,R
+Emergent Ultimatum,R
+Frondland Felidar,R
+General Kudro of Drannith,M
+General's Enforcer,U
+Genesis Ultimatum,R
+Illuna, Apex of Wishes,M
+Inspired Ultimatum,R
+Kinnan, Bonder Prodigy,M
+Labyrinth Raptor,R
+Lore Drakkis,U
+Narset of the Ancient Way,M
+Necropanther,U
+Nethroi, Apex of Death,M
+Offspring's Revenge,R
+Parcelbeast,U
+Primal Empathy,U
+Quartzwood Crasher,R
+Regal Leosaur,U
+Rielle, the Everwise,M
+Ruinous Ultimatum,R
+Savai Thundermane,U
+Skull Prophet,U
+Skycat Sovereign,R
+Slitherwisp,R
+Snapdax, Apex of the Hunt,M
+Song of Creation,R
+Sprite Dragon,U
+Titans' Nest,R
+Trumpeting Gnarr,U
+Vadrok, Apex of Thunder,M
+Whirlwind of Thought,R
+Winota, Joiner of Forces,M
+Zenith Flare,U
+Alert Heedbonder,U
+Cunning Nightbonder,U
+Fiend Artisan,M
+Gyruda, Doom of Depths,R
+Jegantha, the Wellspring,R
+Jubilant Skybonder,U
+Kaheera, the Orphanguard,R
+Keruga, the Macrosage,R
+Lurrus of the Dream-Den,R
+Lutri, the Spellchaser,R
+Obosh, the Preypiercer,R
+Proud Wildbonder,U
+Sonorous Howlbonder,U
+Umori, the Collector,R
+Yorion, Sky Nomad,R
+Zirda, the Dawnwaker,R
+Crystalline Giant,R
+Indatha Crystal,U
+Ketria Crystal,U
+The Ozolith,R
+Raugrin Crystal,U
+Savai Crystal,U
+Sleeper Dart,C
+Springjaw Trap,C
+Zagoth Crystal,U
+Bloodfell Caves,C
+Blossoming Sands,C
+Bonders' Enclave,R
+Dismal Backwater,C
+Evolving Wilds,C
+Indatha Triome,R
+Jungle Hollow,C
+Ketria Triome,R
+Raugrin Triome,R
+Rugged Highlands,C
+Savai Triome,R
+Scoured Barrens,C
+Swiftwater Cliffs,C
+Thornwood Falls,C
+Tranquil Cove,C
+Wind-Scarred Crag,C
+Zagoth Triome,R
