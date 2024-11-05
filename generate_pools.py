@@ -5,13 +5,15 @@ import os
 import re
 
 seed = sys.argv[1]
+print("Seed: ", seed)
+print()
 
 random.seed(seed)
 
 players = ["Sylvie", "Andrew", "Carlos", "Christos", "Zaq", "J", "Noah", "August"]
 sets = ["IKO", "MRD", "ROE", "KLD", "KTK", "THB", "NEO", "GTC"]
 rarities = ["C", "U", "R", "M"]
-os.makedirs("./output", exist_ok=True)
+os.makedirs("./pools", exist_ok=True)
 
 def read_set_from_csv(set_code):
   card_dict = {}
@@ -83,7 +85,7 @@ def generate_pool(set_dictionaries, big_set):
 
 def write_pool(pool, packs, player):
   print(f"Writing Pool for {player}")
-  with open(f"output/{player}.txt", "w") as file:
+  with open(f"pools/{player}.txt", "w") as file:
     for card in pool:
       card_str = f"{pool[card]} {card}"
       file.write(card_str + "\n")
