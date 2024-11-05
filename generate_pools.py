@@ -3,10 +3,15 @@ import sys
 import copy
 import os
 import re
+import tarfile
 
 seed = sys.argv[1]
-print("Seed: ", seed)
-print()
+
+all_output_file_path = "./pools/all_output.txt"
+all_output_file = open(all_output_file_path, "w")
+
+print(f"Seed: {seed}\n")
+all_output_file.write(f"Seed: {seed}\n\n")
 
 random.seed(seed)
 
@@ -85,17 +90,21 @@ def generate_pool(set_dictionaries, big_set):
 
 def write_pool(pool, packs, player):
   print(f"Writing Pool for {player}")
+  all_output_file.write(f"Writing Pool for {player}\n")
   with open(f"pools/{player}.txt", "w") as file:
     for card in pool:
       card_str = f"{pool[card]} {card}"
       file.write(card_str + "\n")
+      all_output_file.write(card_str + "\n")
       print(card_str)
-  print()
-  print(f"Writing Packs for {player}")
+  print(f"\nWriting Packs for {player}")
+  all_output_file.write(f"\nWriting Packs for {player}\n")
   for pack in packs:
     print(pack)
+    all_output_file.write(f"{pack}\n")
   print()
   print()
+  all_output_file.write("\n\n\n")
     
 
 set_dictionaries = {}
@@ -104,3 +113,7 @@ for set_code in sets:
 for i in range(len(sets)):
   pool, packs = generate_pool(set_dictionaries, sets[i])
   write_pool(pool, packs, players[i])
+all_output_file.close()
+
+with tarfile.open("pools.tar", "w") as tar:
+  tar.add("pools", arcname=".")
